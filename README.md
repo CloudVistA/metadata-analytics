@@ -1,5 +1,5 @@
 
-# Cloud VISTA - Semantic Web Evolution
+# Cloud VISTA - A Semantic Web Revolution
 
 
 __*The Cloud VISTA Data Program is a model-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VISTA systems*__  
