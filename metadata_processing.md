@@ -8,7 +8,7 @@ The VA Health Information Systems Technology and Architecture ([VISTA](https://e
 
 VISTA's data model - the roadmap to all of VA's institutional, business, and clinical processes and data - has evolved organically over the past thirty-five years across all VistA systems in an opaque proprietary form, and has never been leveraged, exposed, or managed in a modern computable form.
 
-In the VISTA Master Data Program, VistA's internal operational clinical and business data model - the __*VistA Data Model*__ - is comprehensively exposed, enriched, and operationalized in a modern, secure, industry-standard semantic web model for all clinical operational VistA data.  
+In the Cloud VISTA Data Program, VistA's internal operational clinical and business data model - the __*VistA Data Model*__ - is comprehensively exposed, enriched, and operationalized in a modern, secure, industry-standard semantic web model for all clinical operational VistA data.  
 
 The VistA  Data Model is in turn normalized across all of the distinct 130 VistA data models to create a single national, normalized __*Master Veteran Data Model*__ (MVDM), allowing read-write transactions across all VistA systems using a single, secure, veteran-centric, model-driven mechanism, MVDM Services: 
 
