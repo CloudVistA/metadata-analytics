@@ -1,5 +1,5 @@
 
-# VISTA Data Project
+# VISTA Data Model
 
 __*The VISTA Data Project is a new model-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VistA systems*__
 
