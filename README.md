@@ -1,7 +1,7 @@
 
 # VISTA Metadata Analytics Program
 
-__*The VISTA Metadata Analytics Program is a semantic web standards-driven approach to access, interfacing, security, and master data management for all Veteran  health information at web-scale*__  
+__*The VISTA Metadata Analytics Program is a semantic web standards-driven approach to access, interfacing, security, and master data management for Veteran  health information at web-scale*__  
 
 The VA Health Information Systems Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the U.S. Department of Veterans Affairs integrated clinical, business, and administrative information system which supports the life-long care of 20 million veterans at over 1200 VA hospitals and clinics nationwide. The 130 VISTA systems in operation today contain over 400-million patient-years of data, and continue to grow at a rate of over four million new lab tests, radiographs, and documents each day. 
 
