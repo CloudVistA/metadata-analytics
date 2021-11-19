@@ -1,5 +1,5 @@
 
-# Cloud VISTA Data Evolution
+# Semantic Cloud VISTA
 
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/linked-data-evolution.png)
 
