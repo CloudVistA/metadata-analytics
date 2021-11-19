@@ -12,13 +12,13 @@ In the VISTA Metadata Analytics Program, the VISTA Data Model is comprehensively
 ![vdp](/images/linked-data-evolution.png)
 
 # Master Linked Data Model
-![](https://github.com/vistadataproject/documents/blob/master/images/vdp-introB.png)
+![](/images/vdp-introB.png)
 
 ## Metadata Processing - Overview
-![](https://github.com/vistadataproject/documents/blob/master/images/vdp-basic.png)
+![](/images/vdp-basic.png)
 
 ## Metadata Processing - Detail
-![](https://github.com/vistadataproject/documents/blob/master/images/vdp-technical.png)
+![](/images/vdp-technical.png)
 
 ## Master VISTA Data Model: Features
 
