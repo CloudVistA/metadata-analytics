@@ -18,6 +18,6 @@ The VistA Data Model is in turn normalized across all of the distinct 130 VistA 
 *The figure above summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, secure, standard, server-side, symmetric (bidirectional), service-based master data model-driven interface__.*   
 
 <br><br>
-For a technical overview of the VISTA Data Project, [click here](https://github.com/vistadataproject/documents/tree/master/Background)
+For a technical overview of the VISTA Data Project, [click here](https://github.com/cloudvista/vista-model/background)
 
 
