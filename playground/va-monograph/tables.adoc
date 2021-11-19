@@ -1,0 +1,74 @@
+= Asciidoc Tables Examples
+
+References: 
+
+* https://mrhaki.blogspot.com/2014/11/awesome-asciidoctor-csv-and-dsv-tables.html
+
+== CSV table
+ 
+[format="csv", options="header"]
+|===
+Writing tools, Awesomeness
+Asciidoctor, Oh yeah!
+MS Word, No!
+|===
+
+
+== Table with external data
+ 
+[format="csv", options="header"]
+|===
+include::tools.csv[]
+|===
+
+
+== Different table width
+[cols="50,20,30"]
+|===
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
+
+
+== Spanned rows
+|===
+
+|Cell in column 1, row 1 |Cell in column 2, row 1 |Cell in column 3, row 1
+
+.2+|Content in a single cell that spans rows 2 and 3
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+
+|Cell in column 2, row 3
+|Cell in column 3, row 3
+
+|===
+
+
+== Nested table
+
+[cols="1,2a"]
+|===
+| Col 1 | Col 2
+
+| Cell 1.1
+| Cell 1.2
+
+| Cell 2.1
+| Cell 2.2
+
+[cols="2,1"]
+!===
+! Col1 ! Col2
+
+! C11
+! C12
+
+!===
+
+|===
