@@ -1,4 +1,4 @@
-# VISTA Metatata Program
+# Cloud VISTA Data Program
 
 The Veterans Information System Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the integrated, comprehensive, longitudinal health information system of the U.S. Department of Veterans Affairs ([VA](https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs)). For the past thirty-five years, 130 VISTA systems have provided all clinical, financial, and administrative functions to support the operations of over 1200 VA hospitals and clinics throughout the United States. [ [VISTA Background](https://github.com/vistadataproject/documents/tree/master/Background/vista) ]
 
