@@ -1,16 +1,16 @@
 
-# Cloud VISTA - A Semantic Web Revolution
+# Cloud VISTA - A Linked Data Revolution
 
 
-__*The Cloud VISTA Data Program is a model-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VISTA systems at web-scale*__  
+__*The Cloud VISTA Data Program is a semantic web standards-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VISTA systems at web-scale*__  
 
-The VA Health Information Systems Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the U.S. Department of Veterans Affairs integrated life-long clinical, business, and administrative information system which supports the operations of over 1200 VA hospitals and clinics nationwide. 
+The VA Health Information Systems Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the U.S. Department of Veterans Affairs integrated life-long clinical, business, and administrative information system which supports the care of 20 million veterans and operation of over 1200 VA hospitals and clinics nationwide. Today the VISTA sytems contain over 400-million patient-years of data, and continues to grow at a rate of over four million new lab tests, radiographs, and documents each day.
 
-VISTA's data model - the roadmap to all of VA's institutional, business, and clinical processes and data - has evolved organically over the past thirty-five years across all VistA systems in an opaque proprietary form, and has never been leveraged, exposed, or managed in a modern computable form.
+VISTA's data model - the roadmap to all of VA's institutional, business, and clinical processes and data-  has evolved organically over the past thirty-five years across 130 VISTA systems, but has never been leveraged, exposed, or managed in a modern computable form.
 
 In the Cloud VISTA Data Program, VistA's internal operational clinical and business data model - the __*VistA Data Model*__ - is comprehensively exposed, enriched, and operationalized in a modern, secure, web-standard model for all clinical operational VistA data.  
 
-The VistA  Data Model is in turn normalized across all of the distinct 130 VISTA data models to create a single national, normalized __*Master Veteran Data Model*__ (MVDM), allowing read-write transactions across all VistA systems using a single, secure, semantic web-scale, web-connected data model.
+The VistA  Data Model is in turn meshed and normalized across all 130 VISTA data models to create a single national, normalized __*Master Veteran Data Model*__ (MVDM), allowing read-write transactions across all VISTA systems using a single, secure, semantic web data model.
 
 
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/linked-data-evolution.png)
