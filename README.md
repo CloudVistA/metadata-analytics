@@ -9,7 +9,7 @@ VISTA's data model - the roadmap to all of VA's institutional, business, and cli
 
 In the VISTA Metadata Analytics Program, the VISTA Data Model is comprehensively exposed, enriched, and operationalized in a modern, secure, web-standard data model, allowing integration and semantic interoperability of all Veteran health data at web-scale.
 
-![vdp](../images/linked-data-evolution.png)
+![vdp](/images/linked-data-evolution.png)
 
 # Master Linked Data Model
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-introB.png)
