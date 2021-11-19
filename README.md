@@ -1,5 +1,5 @@
 
-# VISTA Meta
+# VISTA Model
 
 __*The VISTA metadata program is a new model-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VistA systems*__
 
