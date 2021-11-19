@@ -2,7 +2,7 @@
 # Cloud VISTA - A Linked Data Revolution
 
 
-__*The Cloud VISTA Data Program is a semantic web standards-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VISTA systems at web-scale*__  
+__*The Cloud VISTA Data Program is a semantic web standards-driven approach to access, interfacing, security, and master data management for all Veteran  health information across at web-scale*__  
 
 The VA Health Information Systems Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the U.S. Department of Veterans Affairs integrated life-long clinical, business, and administrative information system which supports the care of 20 million veterans and operation of over 1200 VA hospitals and clinics nationwide. Today the VISTA sytems contain over 400-million patient-years of data, and continues to grow at a rate of over four million new lab tests, radiographs, and documents each day.
 
