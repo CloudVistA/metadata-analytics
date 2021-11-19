@@ -1,4 +1,7 @@
-# Master VISTA Data Model
+
+![vdp](https://github.com/vistadataproject/documents/blob/master/images/linked-data-evolution.png)
+
+## Master VISTA Data Model
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-introB.png)
 
 
