@@ -1,5 +1,5 @@
 
-# Semantic Cloud VISTA
+# Cloud VISTA - Semantic Web Evolution
 
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/linked-data-evolution.png)
 
