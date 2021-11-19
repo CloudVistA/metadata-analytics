@@ -1,5 +1,5 @@
 
-# VISTA Metadata Analytics Program
+# VISTA Metadata Analytics
 
 __*The VISTA Metadata Analytics Program is a semantic web standards-driven approach to access, interfacing, security, and master data management for Veteran  health information at web-scale*__  
 
