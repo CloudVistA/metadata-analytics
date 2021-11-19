@@ -1,9 +1,9 @@
 
 # VISTA Master Data Program
 
-__*The VISTA Master Data Program is a new model-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VistA systems*__
+__*The VISTA Master Data Program is a model-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VISTA systems*__
 
-The VA's Veteran Integrated Systems Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the U.S. Department of Veterans Affairs integrated longitudinal  clinical, business, and administrative information system which supports the operations of over 1200 VA hospitals and clinics nationwide.  
+The VA's Veteran Integrated Systems Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the U.S. Department of Veterans Affairs integrated life-long clinical, business, and administrative information system which supports the operations of over 1200 VA hospitals and clinics nationwide.  
 
 VISTA's data model - the roadmap to all of VA's institutional, business, and clinical processes and data - has evolved organically over the past thirty-five years across all VistA systems in an opaque proprietary form, and has never been leveraged, exposed, or managed in a modern computable form.
 
