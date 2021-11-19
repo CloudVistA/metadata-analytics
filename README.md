@@ -1,7 +1,7 @@
 
-# VISTA Data Model
+# VISTA Meta
 
-__*The VISTA Data Project is a new model-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VistA systems*__
+__*The VISTA Metadata Audit, Analytics, and Automation program is a new model-driven approach to access, interfacing, security, and master data management for all Veteran  health information across all VA VistA systems*__
 
 The VA's Veteran Integrated Systems Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the U.S. Department of Veterans Affairs integrated longitudinal  clinical, business, and administrative information system which supports the operations of over 1200 VA hospitals and clinics nationwide.  
 
