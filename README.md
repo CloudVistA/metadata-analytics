@@ -7,7 +7,7 @@ The VA Health Information Systems Technology and Architecture ([VISTA](https://e
 
 VISTA's data model - the roadmap to all of VA's institutional, business, and clinical processes and data - has evolved organically over the past thirty-five years across 130 VISTA systems, but has never been comprehensively exposed in computable form.  
 
-In the Cloud VISTA Data Program, the VISTA Data Model is comprehensively exposed, enriched, and operationalized in a modern, secure, web-standard data model, allowing integration and semantic interoperability of all Veteran health data at web-scale.
+In the VISTA Metadata Analytics Program, the VISTA Data Model is comprehensively exposed, enriched, and operationalized in a modern, secure, web-standard data model, allowing integration and semantic interoperability of all Veteran health data at web-scale.
 
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/linked-data-evolution.png)
 
