@@ -1,4 +1,4 @@
-# VISTA Master Data Model - Overview
+# Master VISTA Data Model
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-introB.png)
 
 
